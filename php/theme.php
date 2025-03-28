@@ -12,7 +12,7 @@ function AddThemeChangerButton()
         $theme = "black";
     }
     // zobrazujeme tlačidlo 
-    echo "<li><a href=\"index.php?theme=$theme\">Switch theme</a></li>";
+    echo "<li><a href=\"index.php?theme=$theme\">Prepnúť tému</a></li>";
 }
 
 // zmeny štýlu prvkov v závislosti od témy
